@@ -10,6 +10,7 @@ For those faucets requiring followups we'll implement VPN switching.
 
 ## License
 Faucetpump: A cryptocurrency faucet gamer
+
 Copyright (C) 2016  the faucetpump team
 
 ```
