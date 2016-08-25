@@ -1,0 +1,14 @@
+pumps:
+  - foo
+  - bar
+
+cryptcs:
+  - bitcoin:
+      addresses:
+        - 379817a2
+        - 80e27798d32
+
+obfs:
+  tor:
+    used-locales:
+      - us
