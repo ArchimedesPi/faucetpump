@@ -1,5 +1,7 @@
 # Faucetpump
 
+[![Travis](https://img.shields.io/travis/archimedespi/faucetpump.svg)](https://travis-ci.org/ArchimedesPi/faucetpump) [![Coveralls](https://img.shields.io/coveralls/archimedespi/faucetpump.svg)](https://coveralls.io/github/ArchimedesPi/faucetpump)
+
 Faucetpump is a pump for cryptocurrency faucets.
 
 It's more an excercise in automating lots of websites constantly and breaking captchas than an actual money-making scheme.
