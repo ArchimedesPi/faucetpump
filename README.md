@@ -1,6 +1,6 @@
 # Faucetpump
 
-[![Travis](https://img.shields.io/travis/ArchimedesPi/faucetpump.svg)](https://travis-ci.org/ArchimedesPi/faucetpump) [![Coveralls](https://img.shields.io/coveralls/ArchimedesPi/faucetpump.svg)](https://coveralls.io/github/ArchimedesPi/faucetpump)
+[![Travis](https://img.shields.io/travis/ArchimedesPi/faucetpump.svg)](https://travis-ci.org/ArchimedesPi/faucetpump) [![Coveralls](https://img.shields.io/coveralls/ArchimedesPi/faucetpump.svg)](https://coveralls.io/github/ArchimedesPi/faucetpump) [![Code Climate](https://img.shields.io/codeclimate/github/ArchimedesPi/faucetpump.svg)]()
 
 Faucetpump is a pump for cryptocurrency faucets.
 
